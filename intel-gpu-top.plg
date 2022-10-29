@@ -3,7 +3,7 @@
   <!ENTITY name      "intel-gpu-top">
   <!ENTITY author    "ich777">
   <!ENTITY version   "2022.09.27">
-  <!ENTITY gitURL    "https://github.com/&author;/&name;/raw/master">
+  <!ENTITY gitURL    "https://jsd.cdn.zzko.cn/gh/&author;/&name;/raw/master">
   <!ENTITY pluginURL "&gitURL;/&name;.plg">
   <!ENTITY md5       "f9988dd51b8d9e2ab9099b718ed65b4c">
   <!ENTITY plugin    "/boot/config/plugins/&name;">
